@@ -10,7 +10,7 @@ function text2bin($txt)
     } 
     return $bin; 
 } 
-echo text2bin('PHP Programming'); 
+echo text2bin('testing aje'); 
 
 /*
 run:
