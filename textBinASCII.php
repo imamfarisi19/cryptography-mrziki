@@ -1,7 +1,7 @@
 <?php
 /*************** 
  * 
- * Convert Text to Binary ASCII
+ * Convert Text to Binary ASCII 
  * oder so.
  * 
 ****************/
